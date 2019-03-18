@@ -11,4 +11,5 @@ It also demonstrates how to make use of various symbols and operators like OR, A
 Reference :
 
 http://www.lucenetutorial.com/lucene-query-syntax.html
+
 https://lucene.apache.org/core/2_9_4/queryparsersyntax.html
